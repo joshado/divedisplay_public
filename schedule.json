@@ -4,7 +4,7 @@
     "default": true, "screen_on": false, "type": "none" 
   },
   {
-    "start_time": "19:55:00", "end_time": "20:35:00", "screen_on": true, "type": "url", "params": {"url":"https://www.cambridgediving.org.uk/Home.action"}
+    "start_time": "19:55:00", "end_time": "20:35:00", "screen_on": true, "type": "url", "params": {"url":"https://joshado.github.io/divedisplay_public/Flyer2020.pdf"}
   }
 ]
 
