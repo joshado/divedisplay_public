@@ -4,10 +4,7 @@
     "default": true, "screen_on": false, "type": "none" 
   },
   {
-    "start_time": "19:55:00", "end_time": "20:34:00", "screen_on": true, "type": "url", "params": {"url":"https://joshado.github.io/divedisplay_public/Flyer2020.pdf"}
-  },
-   {
-    "start_time": "20:34:00", "end_time": "20:36:00", "screen_on": true, "type": "cast"
+    "start_time": "19:55:00", "end_time": "20:45:00", "screen_on": true, "type": "url", "params": {"url":"https://www.youtube.com/watch?v=FtcInmIamKY"}
   }
 ]
 
