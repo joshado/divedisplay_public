@@ -2,9 +2,6 @@
 [
   {
     "default": true, "screen_on": false, "type": "none" 
-  },
-  {
-    "start_time": "19:55:00", "end_time": "20:45:00", "screen_on": true, "type": "url", "params": {"url":"https://www.youtube.com/watch?v=FtcInmIamKY"}
   }
 ]
 
