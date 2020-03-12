@@ -32,8 +32,8 @@
   {
     "name": "carousel",
     "start_time": "07:00:00",
-    "end_time":"21:30:00",
-    "days": ["monday", "wednesday", "thursday"],
+    "end_time":"21:00:00",
+    "days": ["tuesday", "friday"],
     "type": "carousel",
     "screen_on": true,
     "params": {
@@ -49,8 +49,8 @@
 
   {
     "start_time": "07:00:00",
-    "end_time":"21:00:00",
-    "days": ["tuesday", "friday"],
+    "end_time":"21:30:00",
+    "days": ["monday", "wednesday", "thursday"],
     "inherit": "carousel"
   },
   {
