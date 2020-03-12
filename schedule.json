@@ -30,7 +30,7 @@
 
   // all the advert carousel timings across the days
   {
-    "start_time": "00:00:00",
+    "start_time": "07:00:00",
     "end_time":"21:30:00",
     "days": ["monday", "wednesday", "thursday"],
     "type": "carousel",
