@@ -1,10 +1,103 @@
-
 [
   {
-    "default": true, "screen_on": false, "type": "none"
+    "start_time": "18:10:00",
+    "end_time":"20:30:00",
+    "days": ["monday", "wednesday"],
+    "type": "cast",
+    "screen_on": true
   },
   {
-    "start_time": "18:00:00", "end_time": "20:35:00", "screen_on": true, "type": "cast"
+    "start_time": "19:05:00",
+    "end_time":"21:00:00",
+    "days": ["tuesday"],
+    "type": "cast",
+    "screen_on": true
+  },
+  {
+    "start_time": "18:35:00",
+    "end_time":"21:30:00",
+    "days": ["thursday"],
+    "type": "cast",
+    "screen_on": true
+  },
+  {
+    "start_time": "17:30:00",
+    "end_time":"20:30:00",
+    "days": ["sunday"],
+    "type": "cast",
+    "screen_on": true
+  },
+
+  // all the advert carousel timings across the days
+  {
+    "start_time": "07:00:00",
+    "end_time":"21:30:00",
+    "days": ["monday", "wednesday", "thursday"],
+    "type": "carousel",
+    "screen_on": true,
+    "params": {
+      "delay": 30,
+      "images": [
+        "https://joshado.github.com/divedisplay_public/EasterDiveCampsFlyer2020/Slide1.png?1234",
+        "https://joshado.github.com/divedisplay_public/AdultLTDposter2020/Slide1.png?2345",
+        "https://joshado.github.com/divedisplay_public/FreeTaster2020/Slide1.png?3456",
+        "https://joshado.github.com/divedisplay_public/TasterFlyer2020/Slide1.png?999"
+      ]
+    }
+  },
+
+  {
+    "start_time": "07:00:00",
+    "end_time":"21:00:00",
+    "days": ["tuesday", "friday"],
+    "type": "carousel",
+    "screen_on": true,
+    "params": {
+      "delay": 30,
+      "images": [
+        "https://joshado.github.com/divedisplay_public/EasterDiveCampsFlyer2020/Slide1.png?1234",
+        "https://joshado.github.com/divedisplay_public/AdultLTDposter2020/Slide1.png?2345",
+        "https://joshado.github.com/divedisplay_public/FreeTaster2020/Slide1.png?3456",
+        "https://joshado.github.com/divedisplay_public/TasterFlyer2020/Slide1.png?999"
+      ]
+    }
+  },
+  {
+    "start_time": "08:00:00",
+    "end_time":"17:00:00",
+    "days": ["saturday"],
+    "type": "carousel",
+    "screen_on": true,
+    "params": {
+      "delay": 30,
+      "images": [
+        "https://joshado.github.com/divedisplay_public/EasterDiveCampsFlyer2020/Slide1.png?1234",
+        "https://joshado.github.com/divedisplay_public/AdultLTDposter2020/Slide1.png?2345",
+        "https://joshado.github.com/divedisplay_public/FreeTaster2020/Slide1.png?3456",
+        "https://joshado.github.com/divedisplay_public/TasterFlyer2020/Slide1.png?999"
+      ]
+    }
+  },
+  {
+    "start_time": "08:00:00",
+    "end_time":"20:30:00",
+    "days": ["sunday"],
+    "type": "carousel",
+    "screen_on": true,
+    "params": {
+      "delay": 30,
+      "images": [
+        "https://joshado.github.com/divedisplay_public/EasterDiveCampsFlyer2020/Slide1.png?1234",
+        "https://joshado.github.com/divedisplay_public/AdultLTDposter2020/Slide1.png?2345",
+        "https://joshado.github.com/divedisplay_public/FreeTaster2020/Slide1.png?3456",
+        "https://joshado.github.com/divedisplay_public/TasterFlyer2020/Slide1.png?999"
+      ]
+    }
+  },
+
+  // all else fails, turn screen off, do nothing
+  {
+    "screen_on": false, "type": "none"
   }
 ]
 
