@@ -4,7 +4,7 @@
     "end_time":"20:30:00",
     "days": ["monday", "wednesday"],
     "type": "cast",
-    "screen_on": false
+    "screen_on": true
   },
   {
     "start_time": "19:05:00",
