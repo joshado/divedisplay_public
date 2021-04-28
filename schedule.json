@@ -31,7 +31,7 @@
   // all the advert carousel timings across the days
   {
     "name": "carousel",
-    "start_time": "07:00:00",
+    "start_time": "06:00:00",
     "end_time":"21:00:00",
     "days": ["tuesday", "friday"],
     "type": "cast",
@@ -39,7 +39,7 @@
   },
 
   {
-    "start_time": "07:00:00",
+    "start_time": "06:00:00",
     "end_time":"21:30:00",
     "days": ["monday", "wednesday", "thursday"],
     "inherit": "carousel"
