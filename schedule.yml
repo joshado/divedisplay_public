@@ -6,7 +6,7 @@
       - https://joshado.github.io/divedisplay_public/2022-easter-flyer.jpg?1234
 
 - start_time: "06:00:00"
-  end_time: "17:47:00"
+  end_time: "21:30:00"
   days: all
   screen_on: true
   cast: true
