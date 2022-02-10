@@ -16,4 +16,5 @@
   end_time: "23:59:59"
   days: all
   screen_on: true
+  clock: true
   cast: false
