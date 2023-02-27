@@ -3,7 +3,7 @@
     params:
       delay: 3
       images: &carousel-images
-      - https://joshado.github.io/divedisplay_public/summercamp2022.jpg?12345
+      - https://joshado.github.io/divedisplay_public/eastercamp2023.jpg?23456
 
 - start_time: "06:00:00"
   end_time: "21:30:00"
